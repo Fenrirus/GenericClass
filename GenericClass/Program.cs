@@ -13,7 +13,7 @@ namespace GenericClass
             Generic<int> generyczna = new Generic<int>();
             Generic<string> generyczna2 = new Generic<string>();
             generyczna.wypisz(1, 2);
-            generyczna2.wypisz("jeden", "dwa");
+            generyczna2.wypisz("trzy", "cztery");
         }
     }
     public class Generic<T>
